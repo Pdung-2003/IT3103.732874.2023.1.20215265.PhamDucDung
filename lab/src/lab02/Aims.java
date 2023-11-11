@@ -4,7 +4,7 @@ public class Aims {
     public static void main(String[] args) {
         System.out.println("Pham Duc Dung 20215265");
         //TODO Auto-generated method stub
-        //Create a new cart 1
+        //Create a new cart
         Cart anOrder = new Cart();
 
         //Create new dvd objects and add them to the cart
