@@ -6,7 +6,7 @@ public class ChoosingOption {
     public static void main(String[] args) {
         Object[] options = {"Yes", "No"};
         int option = JOptionPane.showOptionDialog(null,
-                "Do you want to change to the first class tickets?",
+                "Pham Duc Dung 20215265 Do you want to change to the first class tickets?",
                 "Confirmation",
                 JOptionPane.YES_NO_OPTION,
                 JOptionPane.QUESTION_MESSAGE,

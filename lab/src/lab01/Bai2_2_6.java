@@ -5,7 +5,7 @@ import javax.swing.*;
 public class Bai2_2_6 {
     public static void main(String[] args) {
         // Giai phuong trinh bac nhat
-        JOptionPane.showMessageDialog(null, "Giai phuong trinh bac nhat: ax+b=0");
+        JOptionPane.showMessageDialog(null, "Pham Duc Dung 20215265 Giai phuong trinh bac nhat: ax+b=0");
         String str1 = JOptionPane.showInputDialog(null,"Pleas input the a number: ","Input the a number",JOptionPane.INFORMATION_MESSAGE);
         String str2 = JOptionPane.showInputDialog(null,"Pleas input the b number: ","Input the b number",JOptionPane.INFORMATION_MESSAGE);
         double a = Double.parseDouble(str1);

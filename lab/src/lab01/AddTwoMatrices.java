@@ -7,7 +7,7 @@ public class AddTwoMatrices {
         Scanner sc = new Scanner(System.in);
         int a[][] = new int[20][20];
         int b[][] = new int[20][20];
-        System.out.println("Cong hai ma tran :");
+        System.out.println("Pham Duc Dung 20215265 Cong hai ma tran :");
         System.out.print("Nhap vao so hang: ");
         int m = sc.nextInt();
         System.out.print("Nhap vao so cot: ");

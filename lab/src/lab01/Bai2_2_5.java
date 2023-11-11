@@ -4,11 +4,11 @@ public class Bai2_2_5 {
         public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
 
-            System.out.print("Enter first number: ");
+            System.out.print("Pham Duc Dung 20215265 Enter first number: ");
             String strNum1 = scanner.nextLine();
             double num1 = Double.parseDouble(strNum1);
 
-            System.out.print("Enter second number: ");
+            System.out.print("Pham Duc Dung 20215265 Enter second number: ");
             String strNum2 = scanner.nextLine();
             double num2 = Double.parseDouble(strNum2);
 

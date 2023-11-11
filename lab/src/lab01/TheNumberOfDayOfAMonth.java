@@ -4,6 +4,7 @@ import javax.swing.*;
 
 public class TheNumberOfDayOfAMonth {
     public static void main(String[] args) {
+        System.out.println("Pham Duc Dung 20215265");
         JOptionPane.showMessageDialog(null, "Chuong trinh tim so ngay cua mot thang");
         loop: do {
             String str1 = JOptionPane.showInputDialog(null,"Nhap vao thang/nam muon tim: ", "Nhap");

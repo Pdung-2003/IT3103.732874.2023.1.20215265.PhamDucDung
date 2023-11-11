@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Triangle {
     public static void main(String[] args) {
+        System.out.println("Pham Duc Dung 20215265");
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhap vao chieu cao n: ");
         int n = sc.nextInt();

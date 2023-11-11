@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class InputFromKeyboard {
     public static void main(String[] args) {
+        System.out.println("Pham Duc Dung 20215265");
         Scanner sc = new Scanner(System.in);
         System.out.println("What's your name?");
         String strName = sc.nextLine();

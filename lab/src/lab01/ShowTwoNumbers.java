@@ -3,6 +3,7 @@ import javax.swing.*;
 
 public class ShowTwoNumbers {
     public static void main(String[] args) {
+        System.out.println("Pham Duc Dung 20215265");
         String strNum1, strNum2;
         String strNotification = "You have just entered: ";
 
