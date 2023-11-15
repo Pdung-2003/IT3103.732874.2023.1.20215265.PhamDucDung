@@ -20,4 +20,5 @@ public class Aims {
         System.out.println("Total Cost is: ");
         System.out.println(anOrder.totalCost());
     }
+    // class member
 }
