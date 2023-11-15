@@ -20,5 +20,5 @@ public class Aims {
         System.out.println("Total Cost is: ");
         System.out.println(anOrder.totalCost());
     }
-    // class member princart search topic store
+    // class member princart search topic store packages
 }
