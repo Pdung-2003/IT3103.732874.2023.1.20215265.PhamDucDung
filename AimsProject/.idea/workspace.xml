@@ -5,34 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d4d426e-ce4a-4747-86c5-6c9a31e744f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AimsProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/Aims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/cart/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/disc/DigitalVideoDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/store/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/test/cart/CartTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/test/disc/TestPassingParameter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/test/store/StoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/Class Diagram AIMS.asta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/Class Diagram Aims.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Requirement/UseCase Diagram Aims.asta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Requirement/UseCase Diagram Aims.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab/src/lab02/Aims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab/src/lab02/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab/src/lab02/DigitalVideoDisc.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../lab/untitled.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/garbage/ConcatenationInLoops.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/AddTwoMatrices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/Bai2_2_5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/Bai2_2_6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/ChoosingOption.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/FirstDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/HelloNameDialog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/InputFromKeyboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/ShowTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/Sort_Sum_Average.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/TheNumberOfDayOfAMonth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/Triangle.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +35,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2YEouYw9gwekjByazgSwS47xtXq" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -70,6 +56,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Dung/Desktop/IT3103.732874.2023.1.20215265.PhamDucDung/AimsProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -107,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1700100323941</updated>
       <workItem from="1700100324864" duration="767000" />
+      <workItem from="1700101905801" duration="624000" />
     </task>
     <servers />
   </component>
