@@ -4,8 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9efa1da-8837-4a6a-a0c6-57c02acac7e3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../T7_OOP_Lab.iml" beforeDir="false" />
+    <list default="true" id="4aa897b8-754e-41a3-ac12-1423e32b9bfa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../AimsProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AimsProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AimsProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AimsProject/AimsProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AimsProject/src/hust/soict/dsai/aims/Aims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AimsProject/src/hust/soict/dsai/aims/cart/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AimsProject/src/hust/soict/dsai/aims/disc/DigitalVideoDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AimsProject/src/hust/soict/dsai/aims/store/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AimsProject/src/hust/soict/dsai/test/cart/CartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AimsProject/src/hust/soict/dsai/test/disc/TestPassingParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AimsProject/src/hust/soict/dsai/test/store/StoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaoCao/20215265-PhamDucDung-BC_TH_Lab1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaoCao/20215265-PhamDucDung-BC_TH_Lab2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BaoCao/20215265-PhamDucDung-BC_TH_Lab3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OtherProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Garbage/ConcatenationInLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/lab1/AddTwoMatrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/lab1/Bai2_2_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/lab1/Bai2_2_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/lab1/ChoosingOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/lab1/FirstDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/lab1/HelloNameDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/lab1/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/lab1/InputFromKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/lab1/ShowTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/lab1/Sort_Sum_Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/lab1/TheNumberOfDayOfAMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/lab1/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AimsProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AimsProject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/otherProjects/hust/soict/dsai/garbage/ConcatenationInLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/otherProjects/hust/soict/dsai/lab01/AddTwoMatrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/otherProjects/hust/soict/dsai/lab01/Bai2_2_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/otherProjects/hust/soict/dsai/lab01/Bai2_2_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/otherProjects/hust/soict/dsai/lab01/ChoosingOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/otherProjects/hust/soict/dsai/lab01/FirstDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/otherProjects/hust/soict/dsai/lab01/HelloNameDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/otherProjects/hust/soict/dsai/lab01/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/otherProjects/hust/soict/dsai/lab01/InputFromKeyboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/otherProjects/hust/soict/dsai/lab01/ShowTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/otherProjects/hust/soict/dsai/lab01/Sort_Sum_Average.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/otherProjects/hust/soict/dsai/lab01/TheNumberOfDayOfAMonth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/otherProjects/hust/soict/dsai/lab01/Triangle.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +71,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2YEfDuA3oAkqtOL4MrRFl88Sx8s" />
+  <component name="ProjectId" id="2YEqUFFlGYNljri3MSicx17AmEw" />
   <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,25 +83,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Dung/Desktop/IT3103.732874.2023.1.20215265.PhamDucDung/AimsProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/Dung/Desktop/IT3103.732874.2023.1.20215265.PhamDucDung/otherProjects/src/Main.java",
+    "onboarding.tips.debug.path": "C:/Users/Dung/Desktop/IT3103.732874.2023.1.20215265.PhamDucDung/OtherProjects/src/Main.java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="ConcatenationInLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.garbage.ConcatenationInLoops" />
-      <module name="otherProjects" />
+      <option name="MAIN_CLASS_NAME" value="Garbage.ConcatenationInLoops" />
+      <module name="OtherProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hust.soict.dsai.garbage.*" />
+          <option name="PATTERN" value="Garbage.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,16 +121,19 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b9efa1da-8837-4a6a-a0c6-57c02acac7e3" name="Changes" comment="" />
-      <created>1700095542553</created>
+      <changelist id="4aa897b8-754e-41a3-ac12-1423e32b9bfa" name="Changes" comment="" />
+      <created>1700101099805</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1700095542553</updated>
-      <workItem from="1700095543550" duration="1102000" />
+      <updated>1700101099805</updated>
+      <workItem from="1700101100813" duration="797000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

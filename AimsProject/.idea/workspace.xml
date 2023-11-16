@@ -4,8 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c81ef5d-ddb8-42d6-807c-00793a49b2b1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../T7_OOP_Lab.iml" beforeDir="false" />
+    <list default="true" id="6d4d426e-ce4a-4747-86c5-6c9a31e744f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AimsProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/Aims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/cart/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/disc/DigitalVideoDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/store/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/test/cart/CartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/test/disc/TestPassingParameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/test/store/StoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab/untitled.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/garbage/ConcatenationInLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/AddTwoMatrices.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/Bai2_2_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/Bai2_2_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/ChoosingOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/FirstDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/HelloNameDialog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/InputFromKeyboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/ShowTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/Sort_Sum_Average.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/TheNumberOfDayOfAMonth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../otherProjects/out/production/otherProjects/hust/soict/dsai/lab01/Triangle.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,11 +50,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="2YEcqeMJU3XXum6f4UNVfaBx6R2" />
+  <component name="ProjectId" id="2YEouYw9gwekjByazgSwS47xtXq" />
   <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,10 +64,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "topic/memory-management-string",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,19 +78,42 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="StoreTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.test.store.StoreTest" />
+      <module name="AimsProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hust.soict.dsai.test.store.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StoreTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7c81ef5d-ddb8-42d6-807c-00793a49b2b1" name="Changes" comment="" />
-      <created>1700094372215</created>
+      <changelist id="6d4d426e-ce4a-4747-86c5-6c9a31e744f5" name="Changes" comment="" />
+      <created>1700100323941</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1700094372215</updated>
-      <workItem from="1700094373201" duration="1159000" />
+      <updated>1700100323941</updated>
+      <workItem from="1700100324864" duration="767000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
