@@ -5,20 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6d4d426e-ce4a-4747-86c5-6c9a31e744f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Design/Class Diagram AIMS.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Design/Class Diagram Aims.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Requirement/UseCase Diagram Aims.asta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Requirement/UseCase Diagram Aims.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab/src/lab02/Aims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab/src/lab02/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab/src/lab02/DigitalVideoDisc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../lab/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/media/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/media/CompactDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/media/DigitalVideoDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/media/Disc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/media/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/media/MediaComparatorByCostTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/media/MediaComparatorByTitleCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/media/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/media/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hust/soict/dsai/test/media/MediaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/aims/Aims.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/Aims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/aims/cart/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/cart/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/aims/disc/DigitalVideoDisc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/aims/store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/dsai/aims/store/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/test/cart/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/dsai/test/cart/CartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/test/disc/TestPassingParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/dsai/test/disc/TestPassingParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hust/soict/dsai/test/store/StoreTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hust/soict/dsai/test/store/StoreTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +63,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Dung/Desktop/IT3103.732874.2023.1.20215265.PhamDucDung/AimsProject",
+    "last_opened_file_path": "D:/T7_OOP_Lab/IT3103.732874.2023.1.20215265.PhamDucDung/AimsProject/src/hust/soict/dsai/aims/media",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,7 +72,42 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\T7_OOP_Lab\IT3103.732874.2023.1.20215265.PhamDucDung\AimsProject\src\hust\soict\dsai\aims\media" />
+      <recent name="C:\Users\Dung\Desktop\IT3103.732874.2023.1.20215265.PhamDucDung\AimsProject\src\hust\soict\dsai\aims" />
+      <recent name="C:\Users\Dung\Desktop\IT3103.732874.2023.1.20215265.PhamDucDung\AimsProject\src\hust\soict\dsai\aims\store" />
+      <recent name="C:\Users\Dung\Desktop\IT3103.732874.2023.1.20215265.PhamDucDung\AimsProject\src\hust\soict\dsai\aims\cart" />
+      <recent name="C:\Users\Dung\Desktop\IT3103.732874.2023.1.20215265.PhamDucDung\AimsProject\src\hust\soict\dsai\aims\media" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Aims">
+    <configuration name="Aims" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.aims.Aims" />
+      <module name="AimsProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hust.soict.dsai.aims.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediaTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.test.media.MediaTest" />
+      <module name="AimsProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hust.soict.dsai.test.media.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StoreTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hust.soict.dsai.test.store.StoreTest" />
       <module name="AimsProject" />
@@ -81,6 +123,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aims" />
+        <item itemvalue="Application.MediaTest" />
         <item itemvalue="Application.StoreTest" />
       </list>
     </recent_temporary>
@@ -95,6 +139,13 @@
       <updated>1700100323941</updated>
       <workItem from="1700100324864" duration="767000" />
       <workItem from="1700101905801" duration="624000" />
+      <workItem from="1700129226205" duration="14000" />
+      <workItem from="1700899679099" duration="1149000" />
+      <workItem from="1700914337870" duration="40000" />
+      <workItem from="1700914391668" duration="10000" />
+      <workItem from="1701251600125" duration="3000" />
+      <workItem from="1701251610726" duration="3869000" />
+      <workItem from="1701255997724" duration="2218000" />
     </task>
     <servers />
   </component>

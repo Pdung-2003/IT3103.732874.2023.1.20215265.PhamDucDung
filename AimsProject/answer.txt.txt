@@ -1,3 +1,36 @@
-Question: Is JAVA a Pass by Value or a Pass by Reference programming language?
+Lab 02:
+- If you create a constructor method to build a DVD by title then create a constructor method to build a DVD by category. Does JAVA allow you to do this?
+ Java không cho phép các constructor có cùng loại tham số và số lượng tham số, vì nó không thể phân biệt được chúng.
+Lab03:
+Question 1: Try to add a method addDigitalVideoDisc which allows to pass an arbitrary number of arguments for dvd. Compare to an array parameter. What do you prefer in this case?
+=> So sánh:
+ Các biến thể có thể ngắn gọn hơn về mặt cú pháp gọi phương thức, nhưng việc sử dụng tham số mảng có thể làm cho mã rõ ràng và dễ đọc hơn.
 
-JAVA is a Pass by Value programming language.
+Question 2: Is JAVA a Pass by Value or a Pass by Reference programming language? 
+=> Pass by Value
+
+-- Lab 04
+-Which classes are aggregates of other classes? 
+Checking all constructors of whole classes if they initialize for their parts?
+
+MediaComparatorByCostTitle, MediaComparatorByTitleCost and Media
+Media and Store
+Media and Cart
+Store and Aims
+Cart and Aims
+CompactDisc and Track
+
+-What class should implement the Comparable interface?
+Class Media
+
+-If the passing object is not an instance of Media, what happens?
+Lỗi do các thuộc tính cần phải so sánh không tồn tại nên sẽ không truyền được tham trị.
+
+-In those classes, how should you implement the compareTo()method be to reflect the ordering that we want?
+So sánh theo Title hoặc theo Cost trước rồi so sánh theo cái còn lại 
+
+-Can we have two ordering rules of the item (by title then cost and by cost then title) if we use this Comparable interface approach?
+Không được do chỉ tồn tại một phương thức CompareTo() cho một lớp 
+-Suppose the DVDs has a different ordering rule from the other media types,that is by title, then decreasing length, then cost. 
+How would you modify your code to allow this?
+Sử dụng Ghi đè (Override) cho phương thức compareTo() ở lớp DVD để phù hợp để so sánh các DVD 
