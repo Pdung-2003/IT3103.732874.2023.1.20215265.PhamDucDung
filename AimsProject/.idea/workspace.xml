@@ -40,7 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "release/lab04",
+    "git-widget-placeholder": "topic/update-class-diagram/aims-project/lab04",
     "last_opened_file_path": "D:/T7_OOP_Lab/IT3103.732874.2023.1.20215265.PhamDucDung/AimsProject/src/hust/soict/dsai/aims/media",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -124,6 +124,7 @@
       <workItem from="1701251600125" duration="3000" />
       <workItem from="1701251610726" duration="3869000" />
       <workItem from="1701255997724" duration="2823000" />
+      <workItem from="1701275938040" duration="9000" />
     </task>
     <servers />
   </component>
